@@ -1,21 +1,20 @@
-body {
-  background-color: grey
-}
 h1 {
-  color: white
+  border: 0.1em black solid;
+  background-color: #FFE84D;
 }
-h2 {
-  color: white
+#Intro {
+  border: 0.1em black solid;
+  background-color: #FFE84D;
+  vertical-align: middle;
+  text-align: justify;
+  font-size: 30px;
 }
-h3 {
-  color: white
+#Autres {
+  border: 0.1em black solid;
+  background-color: #FFE84D;
+  vertical-align: middle;
+  text-align: center;
 }
-h4 {
-  color: white
-}
-p {
-  color: blue
-}
-ul {
-  color: red
+.Centrage {
+  text-align: center;
 }
